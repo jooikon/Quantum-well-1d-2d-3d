@@ -47,7 +47,7 @@ Beginner-level quantum-mechanics project in Python
 
 ## 🚀 Run it yourself
 ```bash
-git clone https://github.com/YOUR_USERNAME/quantum-well-1d-2d-3d.git
-cd quantum-well-1d-2d-3d
+git clone https://github.com/jooikon/Quantum-well-1d-2d-3d.git
+cd Quantum-well-1d-2d-3d
 pip install -r requirements.txt
 jupyter lab
